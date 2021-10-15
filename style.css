@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    font-family: 'Abel', sans-serif;
+}
+
+p{
+    margin-bottom: 50px;
+    font-size: 17px;
+}
+
+h2{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.wrapper{
+    width: 1400px;
+    height: 750px;
+    margin: 30px auto;
+    position: relative;
+    background-image: url("images/coco.jpg");
+}
+
+.tekstvak{
+    width: 600px;
+    padding: 50px;
+    float: right;
+    position: relative;
+}
+
+.wit{
+    color: white;
+}
+
+#logo{
+    display: block;
+    margin: 80px auto;
+    width: 350px;
+}
+
+#knop{
+    background-color: rgb(233, 125, 23);
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
